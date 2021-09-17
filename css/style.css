@@ -1,5 +1,10 @@
-.mijnafbeelding{
+.mijnafbeelding {
     height: 20px;
     width: 20px;
 }
 
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+}
+ 
