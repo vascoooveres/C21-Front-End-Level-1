@@ -1,3 +1,4 @@
-h1{
-    color:(this.style.color='red');
+.MijnAfbeelding{
+    width: 50px;
+    height: 50px;
 }
